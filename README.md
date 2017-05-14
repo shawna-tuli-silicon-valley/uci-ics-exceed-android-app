@@ -1,1 +1,5 @@
 # Exceed
+
+https://www.ics.uci.edu/community/news/view_news.php?id=1151
+
+Exceed is an app that incentives class attendance in universities, while providing new professors with valuable feedback in order to enhance the educationional experience for students. 
