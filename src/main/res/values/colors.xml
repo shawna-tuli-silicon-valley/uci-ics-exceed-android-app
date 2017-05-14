@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_home">#009688</color>
+    <color name="color_feedback">#2196F3</color>
+    <color name="color_redeem">#9C27B0</color>
+    <color name="color_awards">#FFA812</color>
+    <color name="color_profile">#D81F12</color>
+    <color name="color_state_list">#D81F12</color>
+    <color name="white">#FFFFFF</color>
+</resources>

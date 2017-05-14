@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/tab_feedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/title_feedback"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/tab_redeem"
+        android:icon="@drawable/ic_redeem"
+        android:title="@string/title_redeem"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/tab_awards"
+        android:icon="@drawable/ic_awards"
+        android:title="@string/title_awards"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/tab_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/title_profile"
+        android:enabled="true"/>
+
+</menu>

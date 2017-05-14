@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Exceed</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_redeem">Redeem</string>
+    <string name="title_awards">Awards</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_redeem">Redeem</string>
+    <string name="menu_awards">Awards</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="first">Class is too difficult</string>
+    <string name="second">Speed of lecturer</string>
+    <string name="third">Boring or uninteractive</string>
+    <string name="btn_display">Submit</string>
+    <string name="fourth">Disorganized</string>
+    <string name="fifth">No Issue</string>
+    <string name="text1">Other:</string>
+
+    <string name="first1">15% Off Blaze Pizza - 20 points</string>
+    <string name="second1">Chipotle: Free Guac and Chips with Purchase - 30 points</string>
+    <string name="third1">Current Points:</string>
+    <string name="btn_display1">Redeem</string>
+    <string name="fourth1">50</string>
+
+
+    <string name="text11">Redeem Rewards!</string>
+
+
+</resources>
