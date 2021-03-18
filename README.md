@@ -1,4 +1,4 @@
-# Exceed
+# EXCEED Android App
 
 https://www.ics.uci.edu/community/news/view_news.php?id=1151
 
