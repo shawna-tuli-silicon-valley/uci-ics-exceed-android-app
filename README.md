@@ -12,3 +12,4 @@ We are in the news here: https://www.ics.uci.edu/community/news/view_news?id=115
 
 ![benefit](https://user-images.githubusercontent.com/19508013/112404199-244ad380-8ccd-11eb-8bb6-9ffc3409905a.png)
 
+![download](https://user-images.githubusercontent.com/19508013/112405924-70e3de00-8cd0-11eb-8d97-79e7ac9b5534.png)
