@@ -1,7 +1,5 @@
 # Exceed Android App 📲🎓
 
-Associated with the Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
-
 Placed Semi-Finalist at the Butterworth Product Development Competition (Software) in ICS at Donald Bren School of Information and Computer Sciences at the University of California, Irvine. 
 
 We are in the news here: https://www.ics.uci.edu/community/news/view_news?id=1151 and https://tech.uci.edu/competitions/past-2017.php. 
