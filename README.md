@@ -6,13 +6,13 @@ We are in the Donald Bren School of Information and Computer Science's news (htt
 
 ![Title](https://user-images.githubusercontent.com/19508013/126409740-07b8a95f-fcbd-4beb-8a62-0db1b067a06a.png)
 
-![download](https://user-images.githubusercontent.com/19508013/112402596-0def4880-8cca-11eb-9578-eb5bc92a1bfd.png)
-
 ![Problem](https://user-images.githubusercontent.com/19508013/126409805-ef4f0be5-d94f-430a-b93a-7200a15b2757.png)
 
-![download](https://user-images.githubusercontent.com/19508013/112404194-22811000-8ccd-11eb-9e16-8bee6dd7815e.png)
+![download](https://user-images.githubusercontent.com/19508013/112402596-0def4880-8cca-11eb-9578-eb5bc92a1bfd.png)
 
 ![Teachers](https://user-images.githubusercontent.com/19508013/126409785-7acbecd9-6825-427a-927a-4b0902eef026.png)
+
+![download](https://user-images.githubusercontent.com/19508013/112404194-22811000-8ccd-11eb-9e16-8bee6dd7815e.png)
 
 ![benefit](https://user-images.githubusercontent.com/19508013/112404199-244ad380-8ccd-11eb-8bb6-9ffc3409905a.png)
 
