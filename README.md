@@ -5,7 +5,7 @@ We placed Semi-Finalist at the Butterworth Product Development Competition (Soft
 # Donald Bren School of Information and Computer Sciences' news 
 https://www.ics.uci.edu/community/news/view_news?id=1151 
 
-https://tech.uci.edu/competitions/past-2017.php). 
+https://tech.uci.edu/competitions/past-2017.php
 
 ![Title](https://user-images.githubusercontent.com/19508013/126409740-07b8a95f-fcbd-4beb-8a62-0db1b067a06a.png)
 
