@@ -3,9 +3,9 @@
 We placed Semi-Finalist at the Butterworth Product Development Competition (Software) in ICS at Donald Bren School of Information and Computer Sciences at the University of California, Irvine as freshmen. 
 
 # Donald Bren School of Information and Computer Sciences, Univeristy of California, Irvine's News 
-https://www.ics.uci.edu/community/news/view_news?id=1151 
+∙ https://www.ics.uci.edu/community/news/view_news?id=1151 
 
-https://tech.uci.edu/competitions/past-2017.php
+∙ https://tech.uci.edu/competitions/past-2017.php
 
 # Presentation
 
