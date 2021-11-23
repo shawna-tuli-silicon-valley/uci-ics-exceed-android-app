@@ -5,7 +5,7 @@ We placed Semi-Finalist at the Butterworth Product Development Competition (Soft
 # Donald Bren School of Information and Computer Sciences, Univeristy of California, Irvine's News 
 ∙ [Shawna Tuli 2017 Butterworth Product Development Competition Top 10](https://www.ics.uci.edu/community/news/view_news?id=1151) 
 
-∙ [2017 Butterworth Product Development Competition](https://bbcomp.tech.uci.edu/past/2017-participants-and-results/)
+∙ [Shawna Tuli 2017 Butterworth Product Development Competition Participant](https://bbcomp.tech.uci.edu/past/2017-participants-and-results/)
 
 # Presentation
 
