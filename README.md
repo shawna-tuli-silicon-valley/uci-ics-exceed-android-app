@@ -2,13 +2,9 @@
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165651074-294a90e7-d2b2-48c3-bf0a-29bf07f98bcc.png)
 ![comp](https://user-images.githubusercontent.com/19508013/192882107-e8149300-278c-4537-839b-f7400e6772a5.jpg)
 
-# Exceed Android App 📲🎓
-
 ∙ [Shawna Tuli 2017 Butterworth Product Development Competition Top 10](https://www.ics.uci.edu/community/news/view_news?id=1151) 
 
 ∙ [Shawna Tuli 2017 Butterworth Product Development Competition Participant](https://bbcomp.tech.uci.edu/past/2017-participants-and-results/)
-
-# Presentation
 
 ![Title](https://user-images.githubusercontent.com/19508013/126409740-07b8a95f-fcbd-4beb-8a62-0db1b067a06a.png)
 
